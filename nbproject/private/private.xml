@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/codeptit/GUI_java/PTTK_web/src/java/controller/ThongKeNCCServlet.java</file>
+            <file>file:/D:/codeptit/GUI_java/PTTK_web/src/java/DAO/ThanhVien147DAO.java</file>
+            <file>file:/D:/codeptit/GUI_java/PTTK_web/src/java/DAO/HoaDonPhuTung147DAO.java</file>
+            <file>file:/D:/codeptit/GUI_java/PTTK_web/src/java/DAO/ChiTietHoaDonNhap147DAO.java</file>
+            <file>file:/D:/codeptit/GUI_java/PTTK_web/src/java/DAO/PhuTung147DAO.java</file>
+            <file>file:/D:/codeptit/GUI_java/PTTK_web/src/java/DAO/LichHen147DAO.java</file>
+            <file>file:/D:/codeptit/GUI_java/PTTK_web/src/java/controller/DatLichHenServlet.java</file>
+            <file>file:/D:/codeptit/GUI_java/PTTK_web/web/ChiTietHoaDonPhuTung147.jsp</file>
+            <file>file:/D:/codeptit/GUI_java/PTTK_web/web/ChonChucNang147.jsp</file>
+            <file>file:/D:/codeptit/GUI_java/PTTK_web/src/java/model/TK_ncc147.java</file>
+            <file>file:/D:/codeptit/GUI_java/PTTK_web/web/DatLichHen147.jsp</file>
+            <file>file:/D:/codeptit/GUI_java/PTTK_web/src/java/DAO/NhanVienQuanLy147DAO.java</file>
+            <file>file:/D:/codeptit/GUI_java/PTTK_web/src/java/DAO/NhaCungCap147DAO.java</file>
+            <file>file:/D:/codeptit/GUI_java/PTTK_web/src/java/controller/ChiTietNhaCungCap147Servlet.java</file>
+            <file>file:/D:/codeptit/GUI_java/PTTK_web/src/java/DAO/KhachHang147DAO.java</file>
+            <file>file:/D:/codeptit/GUI_java/PTTK_web/web/ChiTietNhaCungCap147.jsp</file>
+            <file>file:/D:/codeptit/GUI_java/PTTK_web/src/java/controller/ChonChucNangServlet.java</file>
+            <file>file:/D:/codeptit/GUI_java/PTTK_web/src/java/controller/LoginServlet.java</file>
+            <file>file:/D:/codeptit/GUI_java/PTTK_web/web/ThongKeNCC147.jsp</file>
+        </group>
+    </open-files>
+</project-private>
